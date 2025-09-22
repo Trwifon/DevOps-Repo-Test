@@ -1,1 +1,2 @@
 This is the second file, created by local repo.
+Test for conflicts.
